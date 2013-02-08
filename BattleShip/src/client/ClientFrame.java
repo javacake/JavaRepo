@@ -22,7 +22,7 @@ import server.PlayerStatus;
  */
 public class ClientFrame extends JFrame{
 	
-
+	private int testvar;
 	/** The client socket. */
 	private Socket clientSocket;
 	
